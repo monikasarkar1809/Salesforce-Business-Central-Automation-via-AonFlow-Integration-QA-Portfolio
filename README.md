@@ -7,6 +7,9 @@
 
 This QA project demonstrates a complete **Salesforce to Microsoft Business Central integration**, where Salesforce **Account records** sync into **Business Central Customers** using the **AonFlow Integration Platform**.
 
+![image alt] (https://github.com/monikasarkar1809/Salesforce-Business-Central-Automation-via-AonFlow-Integration-QA-Portfolio/blob/e2221789c95a83aa6de190526470b4ec1b8f2e75/Aonflow%20Integration.png)
+
+
 The goal of this project is to validate:
 
 - Field mapping accuracy  
